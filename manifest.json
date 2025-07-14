@@ -1,0 +1,19 @@
+{
+    "item": {
+        "name": "焕芯",
+        "description": "免费·可编辑·多样式·拼色",
+        "preview": ["preview.png", "preview2.png", "preview3.png", "preview4.png", "preview5.png", "preview6.png", "preview7.png"],
+        "icon": "icon.png",
+        "source_url": "",
+        "author": [{
+            "name": "池焕",
+            "author_url": "https://github.com/ChiHuan08"
+        }]
+    },
+    "downloads": {
+        "n67": {
+            "version": "2.0.1",
+            "file_name": "焕芯_焕新_2.0.1.bin"
+        },
+    }
+}
